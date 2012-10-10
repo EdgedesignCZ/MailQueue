@@ -1,5 +1,5 @@
 {
-    "name": "edgedesign/mailqueue",
+    "name": "edgedesign/mailqueue-bundle",
     "type": "library",
     "description": "Mail queue",
     "keywords": ["mail", "queue"],
