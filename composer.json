@@ -13,5 +13,6 @@
     "autoload": {
         "psr-0": { "Edge\\MailQueueBundle": "" }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "target-dir": "Edge/MailQueueBundle"
 }
