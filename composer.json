@@ -1,0 +1,16 @@
+{
+    "name": "edgedesign/mailqueue",
+    "type": "library",
+    "description": "Mail queue",
+    "keywords": ["mail", "queue"],
+    "license": "MIT",
+    "authors": [
+        {"name": "Václav Novotný", "email": "vaclav.novotny@edgedesign.cz"}
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Edge\\MailQueue": "" }
+    }
+}
